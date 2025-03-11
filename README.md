@@ -1,3 +1,45 @@
+# Next UI
+
+---
+[Next.js 15: How to Use Hero UI in Your Applications?](https://officialrajdeepsingh.medium.com/31787aff387f)
+---
+
+## Getting Started
+
+The first step is to clone the **next-ui** project with a git command.
+
+```bash
+git clone https://github.com/officialrajdeepsingh/taintUniqueValue-and-taintObjectReference-API.git
+
+# change folder
+cd next-ui
+```
+The next step is to install the Node Package Using the Node package manager.
+
+```bash
+pnpm install
+# or
+yarn install
+# or
+npm install
+```
+
+Lastly, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
